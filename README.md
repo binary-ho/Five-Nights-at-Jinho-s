@@ -8,11 +8,15 @@ Five Nights at Jinho's는 유명 게임 Five Nights at Freddy's의 카피 게임
 
 
 
+
+
 <메인 화면>
 
 안내에 따라 밝기를 조절하세요!
 ![Screenshot (2)](https://user-images.githubusercontent.com/71186266/157548182-4fa76d1f-b31b-4059-97a5-d0a077fcd1cd.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/71186266/157548190-18a2290a-71d3-481c-8b0b-c1cef5885091.png)
+
+
 
 
 
@@ -25,8 +29,10 @@ Light 버튼을 눌러 왼쪽 오른쪽 사이드에 적이 왔는지 확인하�
 아래의 긴 바로 감시카메라를 볼 수 있습니다. 이를 통해 적의 상태를 파악하세요!
 Light와 Door버튼, 그리고 감시카메라는 배터리를 소모합니다. 배터리를 모두 소모하면 전자기기를 모두 사용할 수 없게 되니 꼭 필요할 때만 사용하세요!  
 
-.
-.
+
+
+
+
 
 <감시카메라 화면>
 
@@ -40,6 +46,8 @@ Light와 Door버튼, 그리고 감시카메라는 배터리를 소모합니다. 
 
 감시카메라 화면을 통해 적들의 현재 상황을 파악하세요! 
 각 적들은 다른 이동 특징을 가지고 있습니다! 각 적의 특징을 파악하세요!
+
+
 
 
 
